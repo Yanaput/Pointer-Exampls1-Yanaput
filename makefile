@@ -1,4 +1,4 @@
-DEPS= Not
+DEPS= StringReverse
 compile: main.cpp 
 	 g++ main.cpp -o $(DEPS)
 
